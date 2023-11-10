@@ -1,0 +1,10 @@
+-u http://download.redis.io/redis-stable/TLS.md -n 8 -o file1.txt -s 3000
+-u http://download.redis.io/redis-stable/README.md -o file3.txt -n 8 -s 5000
+-u http://download.redis.io/redis-stable.tar.gz -o file2.txt -n 8 -s 10000000000
+-u https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-zip-file.zip -o zip1 -n 8 -s 10000000
+-u https://7-zip.org/a/7z2301-x64.exe -o exe1 -n 8 -s 10000000
+-u https://7-zip.org/a/7z2301.exe -o exe2 -n 8 -s 10000000
+-u https://images.pexels.com/photos/16373058/pexels-photo-16373058.jpeg -o picture1 -n 8 -s 10000000
+-u https://images.pexels.com/photos/17728936/pexels-photo-17728936.jpeg -o picture2 -n 8 -s 10000000
+-u http://download.redis.io/redis-stable.tar.gz -o zip_file1 -n 8 -s 10000000
+-u https://github.com/Blades007/android_weather/archive/refs/heads/main.zip -o exception_file1 -n 8 -s 10000000
